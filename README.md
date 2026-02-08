@@ -1,16 +1,17 @@
-## Hi there 👋
+# Devendra Singh — Mechanical Design Engineer
 
-<!--
-**DevendraSingh-Mech/DevendraSingh-Mech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi — I’m Devendra, a mechanical design engineer specializing in CAD, FEA, and product development. I design robust mechanical systems from concept to production and have completed multiple industry certifications and hands-on projects.
 
-Here are some ideas to get you started:
+- 📂 See my repositories: mechanical-portfolio, certifications, projects, cad-models
+- 🏆 Certifications: [certifications](https://github.com/DevendraSingh-Mech/certifications)
+- 📫 Contact: singhd1594@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills
+- CAD: SolidWorks, Creo, Autodesk Mechanical, UG-NX
+- Analysis: ANSYS, FEA, Structural & thermal analysis
+- Manufacturing: GD&T, sheet metal, DFMA
+
+Pinned Repos
+- mechanical-portfolio — Portfolio & showcase
+- certifications — Verified certificates and badges
+- projects — Project writeups with CAD and images
