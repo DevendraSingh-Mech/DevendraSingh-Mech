@@ -164,13 +164,22 @@ body {
 }
 
 .duration {
-  background: #1f3c5c;
-  color: #ffffff;
-  padding: 6px 14px;
+  background: rgba(31, 60, 92, 0.15); /* transparent blue */
+  color: #1f3c5c;
+  padding: 6px 16px;
   border-radius: 20px;
   font-size: 0.9rem;
   font-weight: 600;
   align-self: center;
+  border: 1px solid rgba(31, 60, 92, 0.4);
+  transition: all 0.3s ease;
+}
+
+/* Hover Effect */
+.duration:hover {
+  transform: translateY(4px); /* moves slightly down */
+  background: rgba(31, 60, 92, 0.25);
+  box-shadow: 0 8px 18px rgba(31, 60, 92, 0.15);
 }
 
 .edu-score {
