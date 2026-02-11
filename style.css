@@ -164,14 +164,12 @@ body {
 }
 
 .duration {
-  background:#e6e8f7; 
+   
   color: #1f3c5c;
-  padding: 6px 16px;
-  border-radius: 20px;
+  
   font-size: 0.9rem;
   font-weight: 600;
   align-self: center;
-  border: 1px solid rgba(31, 60, 92, 0.4);
   margin-top: 8px; /* push downwards */
   transition: all 0.3s ease;
 }
