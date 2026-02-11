@@ -372,3 +372,11 @@ footer {
     flex-direction: column;
   }
 }
+section {
+  transition: transform 0.4s ease, box-shadow 0.4s ease;
+}
+
+section:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.08);
+}
