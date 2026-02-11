@@ -400,4 +400,31 @@ footer {
     margin-top: 10px;
   }
 }
+.cert-badge {
+  text-align: center;
+  text-decoration: none;
+  color: #333;
+  font-size: 14px;
+  cursor: pointer;
+}
+
+.cert-badge img {
+  width: 90px;
+  height: 90px;
+  object-fit: cover;
+  border-radius: 50%;
+  transition: 0.3s ease;
+  display: block;
+  margin: 0 auto 6px auto;
+}
+
+.cert-badge span {
+  display: block;
+  font-weight: 500;
+  font-size: 13px;
+}
+
+.cert-badge:hover img {
+  transform: scale(1.1);
+}
 
