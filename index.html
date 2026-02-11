@@ -303,6 +303,25 @@
   </div>
 </div>
 
+  <script>
+function openModal(pdf) {
+  document.getElementById("certFrame").src = pdf;
+  document.getElementById("certModal").style.display = "block";
+}
+
+function closeModal() {
+  document.getElementById("certModal").style.display = "none";
+  document.getElementById("certFrame").src = "";
+}
+
+window.onclick = function(event) {
+  const modal = document.getElementById("certModal");
+  if (event.target === modal) {
+    closeModal();
+  }
+}
+</script>
+
 </body>
 </html>
 
